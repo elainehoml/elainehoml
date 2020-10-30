@@ -1,6 +1,6 @@
 ### About me
 
-I'm a biomedical engineer working towards my PhD in biomedical imaging at the University of Southampton.
+I'm a biomedical engineer working towards my [PhD in biomedical imaging](https://www.southampton.ac.uk/engineering/postgraduate/research_students/emlh1n13.page) at the University of Southampton.
 
 My project aims to improve image-based biomedical research and clinical decision-making with [3D X-ray Histology](https://www.southampton.ac.uk/muvis/xrh/index.page). I develop bioimage analysis workflows for correlative X-ray micro-computed tomography and whole slide images. 
 
